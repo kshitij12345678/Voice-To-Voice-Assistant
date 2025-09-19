@@ -1,0 +1,2040 @@
+=== Document ID: 1 ===
+User: Hi. Hey. So I'm Yash and I'm 24 years old. My problem is like first yesterday when I was eating the ice cream, I had the sensitivity problem. So I felt it in my tooth like one or two tooth I felt very much sensitive but like the incisors I didn't feel that much.
+Response: So how long have you been feeling sensitive? Did you notice it any time before?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 2 ===
+User: No, no, no. It's like one week before I haven't noticed it. Yesterday when I was in the college and I tasted it after one week, then I felt it.
+Response: So how long did it take? Was it bearable or you know it is very intense?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 3 ===
+User: It was bearable but one or two teeth it was very intense. Other than that it was bearable.
+Response: Where exactly can you locate it? Is it on the upper jaw?
+[Emotion: Locating] [Tone: Neutral]
+
+=== Document ID: 4 ===
+User: In like in these canine tooth I felt it. Maybe it is because of that I have skipped brushes two days.
+Response: Because of the sensitivity?
+[Emotion: Questioning] [Tone: Neutral]
+
+=== Document ID: 5 ===
+User: No, because like brush I have just done it with my fingers. Maybe because of that I didn't clean it properly. Toothpaste I used but I didn't use the brush.
+Response: But you know because you are telling it as a sensitivity, it doesn't come or develop overnight. (Serious) It might be due to you know some long-standing maybe minor issue that's been there but you didn't notice it. (Technical) Generally also if there is tooth pain or something that the damage would have been developing for quite a long time. So how regularly do you go to dentist for a checkup or where? Okay. When was the last time that you went?
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 6 ===
+User: I went around 3–4 weeks ago. I went for a clean up. But they said that if you are not having anything like any exam or something then you should not clean your tooth.
+Response: Okay. Like proper change. Okay. You got cleaning done?
+[Emotion: Understanding] [Tone: Neutral]
+
+=== Document ID: 7 ===
+User: No. They said no in my IIT-H hospital. So I thought when I will visit Delhi then I will ask them. Because they are free so maybe because of that they are just trying to say no or something.
+Response: Okay. So why exactly did you visit that?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 8 ===
+User: Before that in one year I had this.
+Response: I don't know what was the purpose of your visit. Did you go for a general checkup?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 9 ===
+User: Yeah. General checkup only.
+Response: Okay. So at that point of time you never faced the pain?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 10 ===
+User: No. I didn't face anything.
+Response: So before that did you visit a dentist anytime?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 11 ===
+User: 2–3 years back only.
+Response: Okay. What was the issue?
+[Emotion: Questioning] [Tone: Neutral]
+
+=== Document ID: 12 ===
+User: Since my birth when the tooth came then my first few tooth didn't drop early. So I had to give this a surgery, little bit surgery to grow them up.
+Response: Oh okay. So this was a problem from birth.
+[Emotion: Understanding] [Tone: Neutral]
+
+=== Document ID: 13 ===
+User: Like I had just for my 6–7 tooth.
+Response: Understood. So for that reason you visited quite often for my dentist. So it's been a year you have had this?
+[Emotion: Summarizing] [Tone: Neutral]
+
+=== Document ID: 14 ===
+User: Yeah. It's been a year.
+Response: So the two reasons is that like how regularly you have to, I mean you avoided using toothbrush.
+[Emotion: Analyzing] [Tone: Neutral]
+
+=== Document ID: 15 ===
+User: No. I don't avoid toothbrush but I use soft toothbrush. That's my thing. Like very gentle toothbrush I can only use. I don't use hard toothbrush. Else I will feel little bit too much harsh on the teeth.
+Response: Okay. So that was the only time you faced sensitivity even after that you tried to eat anything cold or something?
+[Emotion: Questioning] [Tone: Neutral]
+
+=== Document ID: 16 ===
+User: That was yesterday only. After that I, cold things I don't have problem with the liquid but with this ice cream only I had this very.
+Response: But that was the only once?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 17 ===
+User: That's the only once when I noticed it. Before that I ate one week before I haven't had anything.
+Response: So from all your dental history and you know your oral hygiene. (Advising) Oral hygiene habits and all. Probably it could have been an acute pain because you didn't recur also. Because the ice cream might have been also like super cold. But because you have faced sensitivity it can be fixed with small remedies for now. (Explaining) Else you know acute sensation for the gum as in there because of temperature changes. Because see if the temperature is very hot also there might be a little damage of tissue which might have caused the pain. So in the same way because of the extreme temperatures the body might have reacted like that. But regular brushing will definitely help. As suggested in your clinic previously. It's good to get teeth cleaned. At the age of 20 to 24 usually the growth stops and bone also starts getting hardened. So from that age it is good to have these regular cleaning check ups. Getting scaling done. Which will also improve your gums health. Then the normal foot blotchment that happens which might not always go away with brushing or gargling. This cleaning will help remove those debris. Or food that is lost in the deeper parts of your teeth. So yeah that will help you and avoid future problems like this.
+[Emotion: Diagnosing] [Tone: Neutral]
+
+=== Document ID: 18 ===
+User: So is it maybe because of this like I have changed my toothpaste also? First I was using Sensodyne since like one and a half year. And then recently I switched to Colgate.
+Response: Okay. Now who suggested and why it is suggested. Why did you pick up using Sensodyne?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 19 ===
+User: At that time also when I started using Sensodyne I felt the sensitivity problem. Then I switched to Sensodyne and I didn’t feel any problem.
+Response: Usually sensitivity correction toothpaste are like medication. (Advising) Just because you feel comfortable using them doesn't mean it fixes the root cause. When the body gets habituated to these things... You need to be careful of long-term use. So because now you have stopped it you might feel discomfort. But again body will revive and start defending. So yeah use the normal toothpaste only.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 20 ===
+User: So, my name is Ankush. Today, I am here for the first time. I am coming to a dentist because I haven't been to a dentist before. I haven't faced any problem like tooth decay or any other problem due to teeth. So, one thing is, I am a bit scared of going to a dentist. Like, what if some problem comes and how will it be treated? And something like painful things and all. So, what is your advice that you would give to a patient who is nervous?
+Response: Okay, so, as then most of the people are apprehensive about or worried about dental issues. But the first thing is, as you take care of your health, the general health of your entire body. So, teeth are also part of our entire body system. So, it is equally good to take care of your dental health in a periodic way. So, yeah, generally, maybe because of your previous experiences or something, or maybe if you have heard from many of your friends or family of some painful procedures, that might not apply to everyone. (Advising) Going for regular checkups will help you to prevent problems. So, prevention is always better than cure, and you know, undergoing all those procedures. So, coming regularly, six-monthly or three-monthly for just a checkup will avoid all those painful and stressful things that you might face in the future.
+[Emotion: Reassuring] [Tone: Neutral]
+
+=== Document ID: 21 ===
+User: So, one normal situation, not related to me, like, at what times do dentists use injections? Injections.
+Response: In dental procedures, usually, the injections are given to extract teeth and when there is root canal treatment, that is happening, especially to your illness. Yes, that is for numbness only. So, it works like any other local anesthesia. (Technical) Anesthesia. Yeah, so that it will prevent the patient from experiencing the pain by giving numbness. Okay, so anything else instead of injection, like which helps the patient to relax and then they are feeling the pain or discomfort? Yeah, so previously it was not there, but very recently, like maybe some 5 to 6 years back, there were these local anesthesia sprays that are given. So, the injection that is given is for it—the medicine should reach the nerve to develop numbness around that area. But even before that, the pain will start because the needle of the syringe pricks the gums. Even to make the entire gums numb, the spray is given. So, that even that prick is also not felt. So, this will give a zero-pain injection or maybe very minimal pain. It has anesthesia also. And that spray also has the same anesthesia, but it is sprayed outside. It doesn't reach the nerve, but it is just for the tissue outside.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 22 ===
+User: Okay. So, one question: I am in my 20s, 24 years old. So, I have wisdom teeth, and all are here. I haven't looked at any of them. So, they don't hurt me, but even if they don't hurt me, should I still take them out?
+Response: No, no need actually. At the age of like 24 or 25, it takes till 30 or 32 also for all the wisdom teeth to come out. (Explaining) These wisdom teeth are usually half-grown outside or not grown because there might be less space in someone's mouth for those teeth to come out. As such, as you mentioned, though wisdom teeth don't have any functional importance, but if the tooth comes out irregularly or pushes the other teeth to the front or crowds the back, there might be a problem because the normal toothbrush doesn't reach those places. So, the normal cleaning procedures are not enough to maintain the health around those wisdom teeth. So, in the long run, there might be some issues people in general might face with wisdom teeth just because of inaccessibility to hygiene. So, these regular checkups will also allow the dentist to actually assess the health of the wisdom teeth and the tissues around.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 23 ===
+User: Okay, so you mean you are saying regular checkups like so?
+Response: Yeah, regular checkups might prevent any person from getting those teeth removed unless it is painful or really disturbing the entire hygiene of the mouth.
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 24 ===
+User: So, what is the time spent for regular checkups, like the correct time?
+Response: Six months to one year will do. So, in the first visit, a dentist can estimate how hygienic your mouth is based on your food habits, cleaning habits, drinking, etc. There are different habits that might affect it, and there are also some general body issues that might affect dental health, I can say. The health of the teeth, like if some person is having gastritis, that is gas—all those problems, they keep burping a lot. That burping does tend to bring some gastric acids into the mouth, which also will cause bad breath, erosion of teeth, etc. So, these can be detected early.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 25 ===
+User: Okay, so you like, as you said about eating habits today. So, does eating sugar affect the teeth?
+Response: Yeah, in some way, actually, it is not directly affecting as such, like the sugar or any other sticky substances or any food, to that matter. There should be a problem cleaning or rinsing and flossing if needed after every meal or everything the person ate. For example, the sugars in bubble gum and all, with the other materials, they tend to be sticky, the cheese and everything and the oils. So, when that sticky substance gets accommodated on the teeth, it will be easier for the germs to get lodged onto the tooth and also in between the teeth, which will lead to damage or decay of that particular tooth. So, regular cleaning will also help, not just the food habits.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 26 ===
+User: So, regular cleaning—what I do is after eating anything, I do a gargle with normal mild water, not any, as you said, floss, not like that. So, is it fine, or should I do anything else also?
+Response: Yeah, again, see if there is a lot of food lodgement even after cleaning. If some people tend to use toothpicks and all, that means that the food is being lodged in between the teeth, which will—and a visit to a dentist will also help that person to understand if that normal rinsing is enough or not. So, in some cases, the teeth might get overlapped when they are growing; they get overlapped and crowding, and all the positions of the teeth will not be proper. So, the person might not know, but the dentist, after looking at the positioning of the teeth, can help them understand different other habits, like using mouthwash, mouthwash gargles, and any different toothpaste. For example, due to the crowding, if the gums tend to recede—I mean, they usually collapse from the normal height—so that is when the sensitivity arises and all that. So, when detected earlier, the type of toothpaste that is to be used can also be prescribed. If normal toothpaste will do, otherwise, there can be toothpaste with salt content that can help improve a little. If the sensitivity is growing, there are many sensitivity toothpastes which help. Yeah, there are mouthwashes like Listerine, etc.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 27 ===
+User: So, one question is, like, how can I tell that my teeth shape is normal or it needs correction?
+Response: Usually, if everything is good and there is no pain and all, it is hard for a normal person to assess if there are very minor issues. But as a dentist, again, if we look at it, we may tell, but a normal person might not understand unless there is pain or some discomfort.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 28 ===
+User: Okay, discomfort also.
+Response: I mean, if they are chewing, though there is no visible infection or something, they may feel pain sometimes. That might be because, you know, the third molar or the—that is growing behind might push the teeth forward. So, that might also cause a little mild pain, or there might be some food lodged that is hard, that is probing and inducing pain. So, there might be multiple factors.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 29 ===
+User: So, when, like as you said, if there is pain or discomfort, then we can say there is something abnormal in the positioning of the teeth. So, there I have two ways: one is braces and one is veneers.
+Response: Veneers are like a plastic covering or casing.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 30 ===
+User: So, which is better, and like, is there any—if both do the same thing or when what should be used?
+Response: Yeah, so yeah, as you said, like both things help in, you know, covering up, I can say, the crowding or overlap or (Technical) misalignment of the teeth. Usually, veneers are mostly used for aesthetic purposes. For example, if there is an actor who has to talk on the screen and mostly their aesthetics are very important. And if they have crowded teeth and all, you know, little bit of adjustments are done, and then a veneer placed on top of it, it acts like a layer to mask the irregularities. It might not completely solve the functional problems that that person is facing. But going for braces or Invisalign-type things, which are coming to the market—that transparent braces kind of thing—will actually adjust and reposition the teeth into the way that they are actually supposed to be, the ideal thing, as close as to the ideal way as possible. Because irregularities will also tend to cause erosion of the teeth; like, the teeth will, you know, the enamel of the teeth will eventually go away, which will make the dentin exposed, and then that also leads to sensitivity and wear. Again, based on the degree of irregularity, the treatment is suggested.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 31 ===
+User: So, one general question: how often should I brush?
+Response: It is always a good habit to brush immediately after waking up and even before sleep. After waking up because, I mean, in sleep our salivation will reduce; this will cause dryness in the mouth, which will be—see, saliva has its purpose to help our teeth for self-cleansing. So, during sleep, when it is reduced, the teeth can dry up, and more microbes can be attracted to or settle on the tooth surface, which will cause damage to the tooth. So, immediately after seven to eight hours of sleep, brushing is required, and at the end of the day because we eat so many things, and rinsing or normal gargling might not help completely. Once at the end of the day, again brushing will help.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 32 ===
+User: So, if someone has yellow teeth, then what is the process of teeth whitening? Is it artificial, or can it be done naturally also?
+Response: Again, the yellowing of the teeth is again in two different phases, like generally. So, one is due to accumulation of (Technical) plaque or calculus, that is called—so, there will be, for a long time, if that person is not cleaning his or her teeth. So, there is sort of accumulation that has been happening over a period, which will harden after some time. Okay, that is called plaque, and even if it gets calcified more, so at first sight, people may think that is a bone growth or something, so it gets that hard. So, that is called calculus. So, these are all to be removed with dental procedures like scaling.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 33 ===
+User: Okay, so what is that? I didn't get it.
+Response: Okay, it's plaque. Plaque. So, it's debris from the food. Okay, okay, that usually gets accumulated around the teeth and other colors. So, that is one reason why teeth can get yellowish. Or, one more reason is, as I told you, there are chances of erosion of enamel in some cases. Due to different things. So, maybe (Technical) malalignment, or maybe for the person who is consuming acidic food like more citrus or more alcohol, so that will cause the removal of the top layer, that is enamel, which is usually white in color. So, the underlying layer is usually yellowish. So, if the white top white layer enamel is being removed, eventually the lower layer will start being shown, so that is the dentin which gives the yellowish color to the teeth. So, when enamel is gone, it can be restored, but there are some artificial procedures like layering. Veneers also is one type of process. No, one layer is yellow, I'm saying. Yeah, yellow part. So, that can be again covered by artificial procedures only.
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 34 ===
+User: Okay, got it. So, usually, what happens is when I drink cold water, when I take one, two, three sips, it gives me like I have sensitivity; like, I feel some irritation, feel some irritation. But after one, two, three sips, when I drink the whole glass, it doesn't affect much. So, what is the reason for that? Like, in the starting, I feel this sensation, and then I just don't know.
+Response: Yeah, so again, pain, although after some threshold. I mean, the person doesn't feel it after even crossing beyond the threshold.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 35 ===
+User: For ice cream also, it happens; like, for one, two, three spoons, I will feel like a great sensation, but then it is okay.
+Response: So, it can be either due to increased threshold or maybe the body gets defensive to subside that pain in some other alternate ways. But because the person has already felt that sensitivity, that means there is already an underlying problem that is coming up, that is either again due to erosion of enamel. The enamel is going away due to different reasons, or there might be some gum problems which is making the underlying dentin or roots to get exposed, which are usually to be covered with the gums.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 36 ===
+User: So, how can I fix it? What should I do?
+Response: Yeah, so periodic cleaning or scaling, as I said. See, if there is debris that is being accumulated between tooth and gum, it will eventually cause the under—I mean, it will detach the gums from the tooth. Okay, so it causes pockets, like structures to be formed. So, caving in, we can call it caving in also. The debris, generally, debris is again like some—it is—it is caused by accumulation of food over a period of time. Okay, so it will be whitish or yellowish color which is filled with again these bacteria and all, which causes damage to the tissues. So, those bacteria will keep developing and multiplying, which will tend to grow deeper and deeper into the gums and reach the root of the tooth and cause infection over there. So, in the initial stages, due to—if the person gets, you know, tends to get good oral care and regular cleaning and all, those can be removed. So, that the gums also will get healthy and they protect or do the job that they are intended to do. If it is neglected, then it may lead to infection.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 37 ===
+User: So, this is happening with me from so many years, like four or five years, but I am ignoring it. And the threshold, as you said, threshold, you mean like that only, like for one to two sips of water or one to two spoons of ice cream, after that it is fine. So, yeah, the threshold is the same for these four or five years, like one to two sips only. So, should I do anything, or is the threshold the same, and I should ignore it because I am taking good care of my teeth?
+Response: Because the pain or sensitivity is still persisting, that means there is extra care that is to be taken. The regular care which you are taking is not enough. That is just stopping it to—yes, that is just—it is, you know, a fix. To get a temporary fix than a permanent solution. Okay, either bearing with the pain or, you know, ignoring that—nothing is there. I know because people are apprehensive to go visit their dentist, thinking that, you know, every procedure is going to be equally painful. But that is not the case. After some time, the infection slowly goes inside, and the damage is far more than anticipated. So, as I mentioned previously, prevention at early stages is better than, you know, going—yeah, taking painful procedures and then looking for a cure. Because this might eventually and slowly accumulate and damage the teeth beyond repair.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 38 ===
+User: Okay. So, one personal question to you. So, what is your favorite part about being a dentist? And how did you come here as a designer? Maybe you have switched. Have you switched jobs, or are you still a dentist?
+Response: No, I am not practicing, but I am still updating myself with what is going on in the dental world.
+[Emotion: Personal] [Tone: Neutral]
+
+=== Document ID: 39 ===
+User: So, you have practiced before, right?
+Response: Yes, yes. So, yeah, the good part again is, you know, being a dentist or a UX designer—solving problems and giving delightful experiences. As you said, not every dentist—you know, I used to have my personal dentist when I was a kid. She used to handle patients so well that they want to keep coming, and they always say that, okay, you have done it very well with minimal pain or with ease. Okay, so that kind of experience even I used to deliver to my patients. Okay, they used to—so that there was one instance where, you know, there was a very old man who was suffering from pain for quite a long time. Just because he couldn't come, he didn't come, but one day he made it to me. I removed his teeth, and because that was the only option, he was like around 90 years old. He was so relieved that he left the clinic with a smile. So, those happy faces at the end of the day are one good thing.
+[Emotion: Personal] [Tone: Neutral]
+
+=== Document ID: 40 ===
+User: Okay. So, one more thing, like, what's the one dental myth you wish everyone would stop believing?
+Response: I think the myth again—people think, "I am okay; my teeth are fine; I don't need to see a dentist."
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 41 ===
+User: Yes. But they are like very lazy.
+Response: People ignore. Ignore. Ignore. Ignore the problem.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 42 ===
+User: Yes. So, they should not ignore.
+Response: See, when people cross 30, how regularly they go for blood checkups and other health checkups, though there is no underlying problem, just to rule out if there might be something or not. So, people also should understand that dental health also has this historical—I mean, like genetical background. So, at least by seeing, for example, if a family has diabetes. So, the next generations tend to take care of—go for regular checkups. And even for dental caries or dental health, also, there is some family background that usually persists, even the food habits. So, because of that, people should definitely understand and recognize how important it is to take care of their dental health also.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 43 ===
+User: So, these dental problems can also pass on genetically?
+Response: Yes, they can pass on.
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 44 ===
+User: Okay. I don't know. I thought it is only about how the teeth are getting to the genes and all. Yeah, so I thought blood issues are there, like—
+Response: So, the body, see, with every disease or infection, every person has some ability to fight out the infection, right? Yes. So, even the dental—even the tooth also, you have those nerves and blood vessels supplying the teeth also. Every tooth has that. So, if a body can't fight any infection in any other part, it is the same; it applies to the teeth. So, in the family, if there are people with multiple caries and all, that means the body is unable to give the required protection, or as I mentioned earlier, the saliva helps in self-cleansing. So, if in the family the dry mouth, dryness is existing. So, for them, the saliva produced is not sufficient. So, it will eventually lead to damage of teeth. I mean, rapid damage when compared to other people. So, that can exist; that is hereditary—the amount of saliva or the ability of the body to fight infections. Infections, let it be. So, there will be different substances; eventually, it might cause dental issues.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 45 ===
+User: So we'll start. Like do you want to start or I should just start with the question?
+Response: Yeah you can just tell your name, give your brief introduction or like if you have any general doubts you can start like that.
+[Emotion: Instructing] [Tone: Neutral]
+
+=== Document ID: 46 ===
+User: Okay so I'm Devansh and I'm 12 years old and my teeth hurt sometimes like when I'm chewing on something.
+Response: Okay so you are 12 years old. So from how many days are you facing the issue?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 47 ===
+User: Like 2 to 3 days. 2 to 3 days.
+Response: So can you tell me where exactly the pain is? Is it up or in your upper jaw or lower jaw?
+[Emotion: Locating] [Tone: Neutral]
+
+=== Document ID: 48 ===
+User: Yeah it's in my lower jaw. Lower jaw.
+Response: Front teeth or back teeth?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 49 ===
+User: Back. Back teeth.
+Response: So are you getting pain especially when you are taking cold or hot food or any food?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 50 ===
+User: Yeah cold food worsens it.
+Response: Okay so like did you find while you are brushing, when did you find it? Only while taking cold food?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 51 ===
+User: Like while eating I found it.
+Response: Okay even while chewing also it hurts?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 52 ===
+User: Yeah.
+Response: Okay. Did you find any blackish discoloring of your teeth while you are brushing?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 53 ===
+User: No I didn't see anything. Okay.
+Response: Did you find any blood coming when you are spitting or?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 54 ===
+User: Yeah on the toothbrush I saw some little blood.
+Response: Okay. So have you been to dentist before?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 55 ===
+User: No I didn't.
+Response: So this is your first visit?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 56 ===
+User: Yeah this is my first time. Okay.
+Response: So did you get any injury while playing or did you fall down?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 57 ===
+User: Yeah I fell down while playing.
+Response: Okay while playing. So is it the same location where you are having the pain now?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 58 ===
+User: I don't know if it is the same location like my whole jaw was on the ground so.
+Response: Okay. So when did you fall and when did you start getting pain?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 59 ===
+User: Almost like after a day I fell I started getting the pain.
+Response: Did you find any swelling outside or inside your mouth?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 60 ===
+User: No there is no swelling. There is no swelling as such.
+Response: Okay so after checking your mouth, if I don't find anything black, blackness or anything or any damage outside, okay I would like you to get an x-ray done. From the x-ray I can see if there is any internal damage that has happened which is causing pain for you. Because as you said you fell. The impact might be very high which might have caused any disturbance in the teeth or you know some sharp, some sharp, some teeth. Teeth will be sharp right? Yeah. Those teeth also might have you know injured your lower teeth or something. Okay. You might have bitten your gum cheeks or gums in the inside which might also result in pain. Okay. Or there might be some fracture inside your jaw. So these can be addressed if you get an x-ray. So you can get two type of x-rays. One at the place where you are actually getting pain. And another x-ray is for your full mouth. So from all your teeth will be covered so that it will be easier for me to see the position of your entire jaw. Or your lower jaw.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 61 ===
+User: I am Devansh, I am a 21 year old person now and I have been having pain in my jaw and my gums, both sides.
+Response: So again, you are facing this pain because of cold food or anything or chewing food?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 62 ===
+User: Just while chewing and even talking, the jaw hurts.
+Response: So for how long have you been having this pain?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 63 ===
+User: For about a week now.
+Response: So while talking, chewing also?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 64 ===
+User: Yeah. The pain persists. The pain persists.
+Response: Okay. So have you been to a dentist before?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 65 ===
+User: For this problem, no.
+Response: No. Okay. So how is your pain? Like is it sharp pain or is it like nagging pain?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 66 ===
+User: It's not sharp but it's like constant pain.
+Response: Constant pain you are facing. Okay. Did you get your teeth cleaned before any time with a dentist?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 67 ===
+User: No. No.
+Response: You are saying your lower teeth or all through all upper teeth?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 68 ===
+User: Lower jaw.
+Response: Only lower jaw?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 69 ===
+User: Yeah.
+Response: Okay. So after checking, probably I think you are having it on both the sides. There might be 2 reasons. One, because you are 21 years and your wisdom teeth might be coming out. So when teeth are erupting, especially wisdom tooth, they tend to push the teeth that are in front of it. So due to that movement, there might be some nagging kind of pain that persists. So you can see that. Okay. So there might be some nagging kind of pain that persists or it might be due to some food debris accumulation and all which needs cleaning. After cleaning is done and if the pain still persists, you know, again we can get a full mouth x-ray that can be done so that it will help me to understand your gums health internally also. Okay. And if they raise any infection and because in the lower jaws, if the wisdom tooth is erupting or it might tend to, you know, incline, it need not come straight like all your other teeth. Okay. So because of that and also it might, you know, press the nerve that is inside your lower jaw which also might cause that mild pain. Okay. So if we, with the x-ray, we can understand the position of your wisdom tooth once. Okay. And also the health of the other teeth as well. And we can also understand the low lying infections or anything that are persisting which will allow me to take a better decision in treating you on the next, I mean what we can do next.
+[Emotion: Diagnosing] [Tone: Neutral]
+
+=== Document ID: 70 ===
+User: So now this time I am a 35 year old person. Okay. And with like my gums have been bleeding while I brush.
+Response: Okay.
+[Emotion: Acknowledging] [Tone: Neutral]
+
+=== Document ID: 71 ===
+User: And they feel kind of sore.
+Response: Sore. Okay. So may I know like which place are you from?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 72 ===
+User: I am from Uttar Pradesh. Uttar Pradesh. Okay.
+Response: So how long have you been staying there from birth?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 73 ===
+User: Yeah, from birth.
+Response: Okay. Even your family members are also from there only.
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 74 ===
+User: Yes.
+Response: Okay. So does anyone else in your family have any issues?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 75 ===
+User: No.
+Response: So have you been in any prolonged medication? Have you been taking medicines for a long time for anything? Any other health issue?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 76 ===
+User: No. No.
+Response: Okay. So do you have any habits like eating good or you know taking tobacco or cigarette, smoking or drinking?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 77 ===
+User: I smoke occasionally.
+Response: You smoke. Okay. So may I know like how many cigarettes you have? How many cigarettes you take per a day?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 78 ===
+User: One or two per day.
+Response: Okay. Okay. So after checking your mouth, I also see that there are stains that are caused due to this habit. And how long have you been smoking, into smoking?
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 79 ===
+User: About 10 years.
+Response: 10 years. Okay. So this is the reason why your gums have been affected because of the smoke and the tobacco that has caused damage to your gums. Okay. So the gums started receding. That is going downwards. Okay. So the level of the gums are very lower to the actual position. This is making you know the underlying tissues and bone exposed and also your teeth have become loosened because there is no proper grip. Okay. So to avoid, so right now what you can get is cleaning done, a thorough cleaning done. It might take two sittings because the severity is a little more. (Advising) After cleaning is done, I'll provide you with certain medication and antibiotics which can cause or minimize, you know, the pain and the bleeding that is coming. You also need a change in your toothpaste. Maybe to, you can pick a toothpaste which reduces your sensitivity, which you might tend to have after the scaling is done. Okay. So after two weeks, if the, you know, bleeding still persists, we can get an x-ray to actually understand the level of the bone also because when the gums are receding, even the bone also will get damaged. So these two are to be restored if the pain still persists. Okay. Or else this cleaning will be done and of course the main cause is smoking. So you have to stop smoking. And because this is causing drastic damage to your oral health or teeth and gums.
+[Emotion: Diagnosing] [Tone: Neutral]
+
+=== Document ID: 80 ===
+User: So now this time I'm a 60 year old person and my lower teeth have been feeling a little loose for some days now. Like they are very loose now.
+Response: Okay. Okay. So did you, only the lower teeth you're feeling or any other place?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 81 ===
+User: Mostly the lower teeth but they are one or two of my upper teeth.
+Response: Okay. Have you got your tooth cleaned with a dentist previously?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 82 ===
+User: Yeah. Once or twice. Once or twice.
+Response: Okay. Was it recently or how long it's been?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 83 ===
+User: Not recently. Maybe around a year or two ago.
+Response: Okay. So do you have any underlying issues like are you diabetic or BP? Do you have BP?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 84 ===
+User: No. I'm diabetic.
+Response: You're diabetic. So for how long have you been diabetic?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 85 ===
+User: About 20 years.
+Response: 20 years. So are you on a regular medication for that?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 86 ===
+User: Yeah.
+Response: After taking medicine is your sugar in control?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 87 ===
+User: Somewhat yes.
+Response: Somewhat. Okay. Are you also facing bleeding from your gums like while you're brushing or spitting?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 88 ===
+User: No. Not as of now.
+Response: No. Nothing. Okay. So you don't have any other heart conditions?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 89 ===
+User: No.
+Response: No. Only for sugar you are taking medications?
+[Emotion: Summarizing] [Tone: Neutral]
+
+=== Document ID: 90 ===
+User: Yeah.
+Response: Okay. So after checking your sugar levels once now, I'd also recommend to get an X-ray done so that I'll understand your bone health. (Explaining) Generally, because of diabetes and also because of your age, the strength of the bone gradually decreases. Okay. But that is a little faster for you because of your... Yeah. ...diabetes. Okay. So with this X-ray, I will also understand that in near future if any other teeth are also getting affected. Okay. (Advising) Initially, we can start with...you can get the scaling done. Okay. Even after scaling is done, your teeth are very loose. (Advising) After two or three weeks, you can come back and we can check them. If they are severely loose, they are to be removed. Okay. (Explaining) If the bone health is good, you can either go for an implant or if the neighboring teeth are strong enough to support, you can have a bridge. Okay. Okay. (Explaining) If both the cases are not possible, you have to get your tooth replaced with some other prosthesis, either removable or fixed thing.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 91 ===
+User: Hello Doctor.
+Response: Hi. May I know your name?
+[Emotion: Greeting] [Tone: Neutral]
+
+=== Document ID: 92 ===
+User: kshitij.
+Response: So what are you here for today?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 93 ===
+User: I am here for tooth pain in the left side.
+Response: Okay. In the lower jaw or upper jaw?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 94 ===
+User: It's upper jaw.
+Response: Since when are you having this pain?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 95 ===
+User: From last week.
+Response: Last week, okay. So are you getting this pain every time or in general when you are eating some kind of food?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 96 ===
+User: In general when I eat some cold food, ice creams or some other items.
+Response: So have you been to dentist before?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 97 ===
+User: No.
+Response: May I know your age?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 98 ===
+User: It's 23.
+Response: So are you also getting the pain when you are chewing any hard food or any food?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 99 ===
+User: No.
+Response: Okay. So have you been to dentist?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 100 ===
+User: No.
+Response: Okay. So have you been to dentist?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 101 ===
+User: No.
+Response: May I know your age?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 102 ===
+User: It's 23.
+Response: So are you also getting the pain when you are eating some cold food or any food?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 103 ===
+User: Yes Sometimes
+Response: Have you been to dentist before?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 104 ===
+User: No. Nothing. This is the first time. This is the first time.
+Response: Even in your childhood also you have never been to. So previously did you any time experience similar kind of pain?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 105 ===
+User: I experienced in childhood but then it was gone.
+Response: Okay, okay. So do you have that, while you are chewing does your food gets stuck over there? Do you have foot lanchment and all?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 106 ===
+User: No. No. No.
+Response: Okay. So did you take any medication for this pain?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 107 ===
+User: No, not till now.
+Response: Nothing? Nothing. Okay. So do you also have this pain while you are sleeping or something?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 108 ===
+User: No. Only while eating some…
+Response: Only cold food?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 109 ===
+User: Yes, cold food.
+Response: Okay. Only in one area you have or in any other places?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 110 ===
+User: Only this side.
+Response: Only upper part?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 111 ===
+User: Yes.
+Response: Oh. Okay. So may I know which toothpaste you have been using?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 112 ===
+User: Colgate.
+Response: Colgate. Okay. How many times do you brush your teeth?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 113 ===
+User: One time.
+Response: One time. Okay. So did you experience same pain when you consume hot drinks like tea, coffee or…
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 114 ===
+User: No.
+Response: Nothing?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 115 ===
+User: Nothing.
+Response: Okay. So after checking your mouth and tapping at four different places, you tell me like if you still have your pain or not. If the pain persists,
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 116 ===
+User: okay,
+Response: let's go and take a test.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 117 ===
+User: Okay.
+Response: Okay. Okay. So I will take one x-ray in that place. Okay. I will also check from the x-ray if there is any internal damage or any infection that is below your teeth.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 118 ===
+User: Okay.
+Response: So if there is no infection that is inside, okay, what I will do is you can get your teeth cleaned, okay, that is scaling, which doesn't take much time, maybe half an hour or so.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 119 ===
+User: Okay
+Response: And have you experienced any bleeding while brushing or anything?
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 120 ===
+User: No.
+Response: No. Nothing?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 121 ===
+User: Nothing.
+Response: Okay. So it might be like regular cleaning issue only. If you get the tooth scaled, it will be gone. After that, you can use any sensitive, sensodine, toothpaste kind of thing to reduce your sensitivity. But if even after the cleaning and even after one week to ten days, if the pain still persists, we can again check if there is any minor fracture or anything.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 122 ===
+User: Okay Doctor
+Response: Did you get any injury or hit to your teeth that side?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 123 ===
+User: No.
+Response: No. Nothing
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 124 ===
+User: Okay. So it will be a minor problem.?
+Response: No So I request you to get scaling done and come for checkup after ten days again.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 125 ===
+User: Okay.
+Response: Thank you. Okay.
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 126 ===
+User: Hello Doctor.
+Response: Hello. Good morning. How are you doing?
+[Emotion: Greeting] [Tone: Neutral]
+
+=== Document ID: 127 ===
+User: I am fine.
+Response: May I know your name ?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 128 ===
+User: 23
+Response: Okay. So may I know the purpose of your visit today here?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 129 ===
+User: Doctor ,I have a tooth cavity.
+Response: Cavity. Okay. When did you know that you have a tooth cavity?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 130 ===
+User: Last week.
+Response: Last week. Okay.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 131 ===
+User: yes
+Response: So how did you know?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 132 ===
+User: While brushing
+Response: Is there any other complaints with that?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 133 ===
+User: While brushing I feel.
+Response: Okay. You found that there is some black. Black dot over there.
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 134 ===
+User: yes
+Response: Okay. Where exactly? Is it in the upper or lower?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 135 ===
+User: Lower jaw.
+Response: Front tooth or back teeth?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 136 ===
+User: Back. Back teeth.
+Response: Okay, So have you ever experienced any pain to that?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 137 ===
+User: No , there is no pain
+Response: Okay. Did you have similar complaints previously?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 138 ===
+User: Not much.
+Response: No, Nothing. You did not have.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 139 ===
+User: Yes
+Response: Okay. So while chewing is your foot getting stuck in that cavity?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 140 ===
+User: Yes. Yes.
+Response: Okay. are you also getting bad foul smell or bad breath?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 141 ===
+User: Yes, from last week i experianced it
+Response: Okay. So is there any other swelling that you saw in your teeth or around the teeth?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 142 ===
+User: No Nothing. So are you having pain while you are sleeping?
+Response: No.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 143 ===
+User: Only while eating I feel some pain.
+Response: Pain. Okay. So while chewing you are also facing some pain.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 144 ===
+User: Yes doctor exactly.
+Response: Okay. Let me see like if the cavity is too deep we will get an x-ray to that tooth.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 145 ===
+User: Okay.
+Response: In that cavity in that x-ray if I find that the because you are telling it is paining so there might be chances of infection to your pulp.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 146 ===
+User: Okay, what does that mean
+Response: That means your nerve got infected over there. So if that is the case we can again double check with the x-ray.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 147 ===
+User: Okay.
+Response: So if the infection is there which is going deep into your tooth
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 148 ===
+User: what we can do for that
+Response: Okay. we can do root canal treatment for you. Are you okay for that?
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 149 ===
+User: What is actually root canal? I don't know about it.
+Response: Okay, root canal treatment is like because your tissue, there is tissue called pulp tissue, living tissue like your skin and all, inside your tooth.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 150 ===
+User: Okay,
+Response: if that gets infected then you will feel this pain.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 151 ===
+User: So what is the treatment for this exactly
+Response: So what we have to do is, first initially I will drill your tooth by giving anesthesia so that you won't get any additional pain. So after drilling your tooth from inside there will be one canal which I told you the pulp, I should clean it and remove it completely.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 152 ===
+User: Okay,
+Response: Once it is removed, now your tooth is cleaned completely and infection is also gone from that.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 153 ===
+User: is my tooth will remain strong after that ?
+Response: now after this your teeth should be strong. Whatever the tooth for which you are getting root canal,
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 154 ===
+User: how?
+Response: it should be strong so it should be filled with the cement. Because I have cleaned it, inside there is a canal, right?
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 155 ===
+User: yes doctor So now we have to fill it right ?
+Response: yes then that will be filled with the cement.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 156 ===
+User: after that?
+Response: After that you can come again after three days where I have to cut your tooth outside and put a crown on it.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 157 ===
+User: so  what will happen after that
+Response: So that tooth will remain longer and it will stay strong.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 158 ===
+User: is there chances of affection or anything?
+Response: yes, if you avoid getting that crown, there might be chances of a fracture of that particular tooth.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 159 ===
+User: Okay.
+Response: So even if its fracture is broken, it should be removed.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 160 ===
+User: is there any chance to replace or protect it ?
+Response: So there is no chance of replacing, protecting it again.
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 161 ===
+User: So now what is next procedure?
+Response: So this is root canal, it will take three or four days, three or four sittings.
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 162 ===
+User: Is there any chances to lose a life?
+Response: No actually there are very very remote cases where the infection of your teeth will mix in the bloodstream and then pass to other important vital organs like heart and all.
+[Emotion: Reassuring] [Tone: Neutral]
+
+=== Document ID: 163 ===
+User: Okay but in only rare cases
+Response: yes
+[Emotion: Confirming] [Tone: Neutral]
+
+=== Document ID: 164 ===
+User: Okay. if you don't take out pain what do they do then?
+Response: so that in the surrounding area also if there is some infection that will go away okay so after that in the second sitting where we fill it with cement and all
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 165 ===
+User: is i have to use any medication for this
+Response: you need not use any other medication so for three days
+[Emotion: Advising] [Tone: Neutral]
+
+=== Document ID: 166 ===
+User: Okay doctor
+Response: Can we proceed with the root canal
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 167 ===
+User: Yes doctor , where can i get the appointment for that?
+Response: on reception you will get all the information needed for this
+[Emotion: Directing] [Tone: Neutral]
+
+=== Document ID: 168 ===
+User: Okay doctor
+Response: Yes you can proceed with the paper work and we can start the treatment from next week
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 169 ===
+User: Okay Doctor it will be fine
+Response: Okay
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 170 ===
+User: thank you doctor
+Response: Yes Thank you
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 171 ===
+User: Bye
+Response: Bye
+[Emotion: Concluding] [Tone: Neutral]
+
+=== Document ID: 172 ===
+User: Just yesterday, like I said.  It only happened when I ate the ice cream, though.  Before that, nothing.
+Response: [Inquiring] [Tone: Neutral]  Okay.  And what kind of ice cream was it?  Was it very cold?  [Assessing]  We need to understand the trigger.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 173 ===
+User: It was strawberry, pretty cold I guess.  I mean, it was straight from the freezer.
+Response: [Clarifying] [Tone: Concerned]  So, very cold ice cream directly from the freezer.  [Diagnosing] That suggests a possible issue with exposed dentin, which is the layer under the enamel.  This is often the cause of tooth sensitivity. [Explaining]  We'll need to examine your teeth to see what's going on.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 174 ===
+User: Oh, okay.  Does that mean I have a cavity? I'm a little scared.
+Response: [Reassuring] [Tone: Friendly] Not necessarily.  Sensitivity doesn't automatically mean a cavity.  [Explaining] There are several reasons why you might have sensitive teeth, including worn enamel, gum recession, or even a cracked tooth.  [Advising]
+[Emotion: ] [Tone: ]
+
+=== Document ID: 175 ===
+User: It's a sharp, shooting pain, mostly when I bite down on anything hard.  It's not constant, but it's definitely noticeable now.
+Response: (Clarifying) (Assessing) So the pain is intermittent, triggered by biting down on hard foods?  (Questioning) Can you describe the intensity on a scale of 1 to 10, with 1 being barely noticeable and 10 being excruciating?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 176 ===
+User: Probably a 6 or 7 when it happens.  It's not all the time, thankfully.
+Response: (Reassuring) (Informative) That's good to hear it's not constant. (Assessing)  We'll figure out what's causing this. (Questioning)  Have you noticed any sensitivity to hot or cold foods or drinks?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 177 ===
+User: Yes, actually.  Ice cream is especially painful now.
+Response: (Diagnosing) (Concerned) Sensitivity to cold often indicates a problem with the dentin or enamel. (Advising) We need to examine the tooth to determine the exact cause. (Questioning)  Is the pain localized to one specific tooth, or does it seem to radiate?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 178 ===
+User: It's more of a dull ache, not a sharp pain, if that makes sense.  It's kind of a throbbing feeling.
+Response: That makes perfect sense.  A dull, throbbing ache can indicate a different problem than a sharp, stabbing pain. (Clarifying) Can you pinpoint the location of this throbbing ache for me?  (Inquiring)  And how long have you been experiencing this?
+[Emotion: Understanding] [Tone: Reassuring]
+
+=== Document ID: 179 ===
+User: It's hard to say exactly, but I think it’s my lower left molar.  It’s been bothering me on and off for about a week now.
+Response: Okay, lower left molar, on and off for a week. (Questioning)  Does the pain increase with certain activities like chewing or biting down? (Inquiring)  Have you noticed any swelling or sensitivity to hot or cold in that area?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 180 ===
+User: Yes, it’s definitely worse when I chew on that side.  And sometimes it’s sensitive to cold drinks.  No swelling though.
+Response: Thank
+[Emotion: Analyzing] [Tone: Informative]
+
+=== Document ID: 181 ===
+User: It's really throbbing now, like a dull ache, mostly when I bite down.
+Response: (Assessing) I understand.  That throbbing pain when biting suggests it might be related to the pulp of the tooth. We need to examine it carefully to determine the cause. (Inquiring) Can you point to the exact location of the pain?
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 182 ===
+User: Yeah, right here on the gum near the tooth. It's a bit swollen too.
+Response: (Clarifying) So the swelling is localized near the canine tooth? (Inquiring)  Have you noticed any pus or discharge from that area?
+[Emotion: Assessing] [Tone: Serious]
+
+=== Document ID: 183 ===
+User: I think so, a little bit.  It's hard to tell.
+Response: (Advising) It's important we get a good look at that.  (Explaining)  Pus can indicate an infection. (Questioning)  Have you experienced any fever or other symptoms like fatigue?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 184 ===
+User: No fever, but I've been feeling a bit tired.
+Response: [Tone
+[Emotion: Assessing] [Tone: ]
+
+=== Document ID: 185 ===
+User: Oh, I see.  I guess I haven't been to the dentist in... maybe three years? I've been putting it off.  (Concerned) I'm a bit scared, to be honest.
+Response: (Reassuring)  It's okay to feel that way, many people do. (Explaining)  It's much better to address any potential issues early rather than wait until they become more serious and painful. We'll take it slowly and make you comfortable. (Questioning)  Can you tell me a little more about what worries you about going to the dentist?  (Inquiring) And what kind of pain are you experiencing now, exactly?  Is it sharp, dull, constant, or comes and goes?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 186 ===
+User: It's a dull ache, mostly in my lower left molars. It's worse when I eat something sweet. (Describing)
+Response: (Assessing)  A dull ache worsened by sweets points towards potential decay or sensitivity. (Explaining)  We'll need to take a look to determine the exact cause. (Reassuring)  But it's good you're here now. Early detection is key to easier
+[Emotion: ] [Tone: ]
+
+=== Document ID: 187 ===
+User: So, I'm a bit worried because my gums have been bleeding a little more lately, even after brushing gently.  (Concerned)
+Response: (Assessing) I understand your concern. Bleeding gums can be a sign of several things, from simple gum irritation to more serious issues.  Let's take a look and see what's going on. We can discuss treatment options after a proper examination. (Informative) (Reassuring)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 188 ===
+User: They said I didn't need X-rays because I wasn't having any pain. Is that normal? (Questioning)
+Response: (Explaining)  While X-rays are a valuable diagnostic tool, they aren't always necessary for every checkup.  The absence of pain doesn't automatically mean there aren't underlying issues.  We can discuss the frequency of X-rays based on your individual needs and risk factors.  (Advising) (Clarifying)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 189 ===
+User: My teeth feel a bit sensitive to cold drinks recently.  (Concerned)
+Response: (Inquiring) How long have you been experiencing this sensitivity?  Is it constant, or only with certain drinks? (Assessing) (Questioning)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 190 ===
+User: I had a really bad toothache, and it was throbbing all night.  I couldn't eat anything.
+Response: And where exactly is the pain located?
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 191 ===
+User: It's like a sharp stabbing pain, mostly in my lower right molar.  It's been going on for about three days now.
+Response: Have you taken any over-the-counter pain medication?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 192 ===
+User: Yes, I took some ibuprofen, but it didn't really help much.  And it's a little swollen, I think.
+Response: I understand. Ibuprofen often helps with inflammation, but it doesn't always address the underlying cause of the pain. [Advising
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 193 ===
+User: Before that in one year I had this sharp pain in my lower right molar, but it went away on its own.
+Response: (Inquiring) (Concerned) I understand.  Could you describe the pain a little more? Was it a throbbing pain, a sharp stabbing pain, or something else?  (Assessing)  And how long did it last before it subsided?  (Questioning) Did you notice anything that seemed to trigger it, or make it better or worse?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 194 ===
+User: I think I grind my teeth at night. My jaw is sometimes sore in the morning.
+Response: (Assessing) (Informative) Teeth grinding, or bruxism, is quite common.  The jaw soreness in the morning is a typical symptom. (Advising) We can discuss options for managing this, such as a mouthguard.  (Questioning)  Do you experience any clicking or popping in your jaw joint?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 195 ===
+User: My gums bleed sometimes when I brush.
+Response: (Concerned) (Questioning) How often does this bleeding occur? (Clarifying) Is it just a little bit of bleeding, or is it a significant amount? (Assessing)  And what type of toothbrush and toothpaste are
+[Emotion: ] [Tone: ]
+
+=== Document ID: 196 ===
+User: Just a cleaning, I think.  Haven't been in a while.
+Response: [Assessing] [Tone: Concerned] [Inquiring] Okay, how long has it been since your last cleaning?  We want to make sure we catch anything early. (Advising) It's always best to schedule regular checkups, even if you don't think you need anything done.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 197 ===
+User: Maybe six months?  A year? I'm not really sure.
+Response: [Clarifying] [Tone: Friendly]  [Questioning]  Let's try to get a better idea. Do you remember roughly when your last appointment was?  This helps us track any potential changes in your dental health. (Informative)  We keep detailed records, and that will help us too.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 198 ===
+User: I had a filling done a few years ago.  Is that something you check on?
+Response: [Confirming] [Tone: Reassuring] Yes, absolutely! We'll check the existing fillings to ensure they're still in good condition. (Explaining)  Sometimes fillings can wear down or develop small cracks over time, and it's important to catch those early.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 199 ===
+User: No, not for many years.  I avoid dentists.
+Response: I understand. Many people feel anxious about dental visits.  Can you tell me a little more about why you've avoided them for so long?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 200 ===
+User: I'm scared of the drill.  The noise and the feeling... it's just terrifying.
+Response: I understand your fear.  Modern dental drills are much quieter and we use numbing agents to ensure you feel no pain. We can discuss different ways to manage your anxiety, too.  (Questioning) Would you be open to trying a desensitization technique, perhaps starting with a simple cleaning?
+[Emotion: Empathetic] [Tone: Reassuring]
+
+=== Document ID: 201 ===
+User: Maybe...  I'm also worried about the cost.
+Response: Cost is definitely a concern for many. (Explaining) We offer various payment plans and can discuss your options to make treatment affordable. (Questioning)  Can you tell me a bit more about your insurance coverage, if you have any?
+[Emotion: Considerate] [Tone: Informative]
+
+=== Document ID: 202 ===
+User: It was a really sharp pain in my upper right molar, only when I bit down on something hard.  It went away after a few days, so I didn't worry too much.
+Response: And did the pain ever return after that initial episode?  It's important to understand the full history of the pain.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 203 ===
+User: No, not until about six months ago. This time it was more persistent, a dull ache, and sometimes sensitive to cold.
+Response: So, a dull ache and cold sensitivity, six months ago.  Was there any swelling or discoloration in the area?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 204 ===
+User: I think there might have been a little swelling, but nothing major.  It just felt a bit puffy.
+Response: And how long did this second episode of pain last?  Did you take any over-the-counter pain relievers?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 205 ===
+User: It lasted maybe a week, then subsided again. I took ibuprofen.
+Response: [
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 206 ===
+User: And ever since then, my teeth have been really sensitive to hot and cold.  It's quite uncomfortable. (Describing)
+Response: I understand.  Sensitivity to temperature changes after a procedure like that isn't uncommon. (Explaining) We can explore ways to manage that sensitivity.  (Advising) (Reassuring)  (Questioning)  Could you describe the level of sensitivity? Is it a sharp pain, or more of a dull ache?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 207 ===
+User: It's more of a sharp, shooting pain, especially with ice cream. (Describing) (Clarifying)
+Response: Okay, a sharp pain.  That's helpful information. (Assessing) (Confirming) We might need to check for any possible underlying issues causing that heightened sensitivity.  (Diagnosing) We can also discuss desensitizing toothpaste options. (Advising) (Informative)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 208 ===
+User: I've also noticed some discoloration on a couple of my front teeth. (Describing) (Concerned)
+Response: I see. (Assessing)  Discoloration can have several causes. (Explaining)  We'll need to examine them closely to determine the reason. (Advising
+[Emotion: ] [Tone: ]
+
+=== Document ID: 209 ===
+User: It's been more like two years, actually.  And it's not just the pain, it's also sensitive to hot and cold.
+Response: I understand. Two years of pain and sensitivity to temperature changes in that tooth. That's significant. (Questioning) Can you describe the type of pain you experience? Is it sharp, throbbing, dull, or something else?
+[Emotion: Clarifying] [Tone: Concerned]
+
+=== Document ID: 210 ===
+User: It's usually a sharp pain when I bite down, and sometimes a dull ache throughout the day.
+Response: Sharp pain on biting and a dull ache – this helps me understand the potential problem. (Inquiring)  Have you noticed any swelling or discoloration in the area?
+[Emotion: Assessing] [Tone: Informative]
+
+=== Document ID: 211 ===
+User: Not really, no swelling, but sometimes it feels a little bit like there's pressure building up inside.
+Response: That pressure sensation is something we need to investigate.  It's not uncommon. (Advising) We'll need to take some x-rays to get a clearer picture of what's going on.
+[Emotion: Considering] [Tone: Reassuring]
+
+=== Document ID: 212 ===
+User: It hurts really bad when I bite down on anything.
+Response: I understand.  That sounds quite painful. (Questioning) Can you describe the pain – is it sharp, dull, throbbing?  (Inquiring)  And where exactly do you feel it?  (Clarifying)  Is it in one specific tooth, or a wider area?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 213 ===
+User: I've tried rinsing with salt water, but it doesn't seem to help much.
+Response: Salt water rinses can help with some minor issues, but it's not a cure-all. (Explaining)  We need to find the underlying cause of your pain. (Questioning) Have you noticed any sensitivity to hot or cold foods or drinks?
+[Emotion: Understanding] [Tone: Reassuring]
+
+=== Document ID: 214 ===
+User: I'm a little nervous about getting any work done.
+Response: It's completely understandable to feel nervous about dental procedures. (Reassuring) We'll make sure you're comfortable throughout the entire process. (Explaining
+[Emotion: Empathetic] [Tone: Reassuring]
+
+=== Document ID: 215 ===
+User: Yes, only that one time.  After I switched to the softer brush, it hasn't happened again. (Confirming)
+Response: That's good to hear!  It sounds like you've found a solution that works for you. We'll keep an eye on it, but it seems the sensitivity was likely a temporary issue related to brushing technique. (Assessing) (Informative)
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 216 ===
+User: But, sometimes my gums bleed a tiny bit when I brush. Is that normal? (Inquiring) (Concerned)
+Response: A little bit of bleeding can be normal, especially if you're using a new brush or haven't brushed thoroughly in a while. (Explaining) However, persistent bleeding could indicate gum disease, so let's monitor it. (Advising) (Assessing)
+[Emotion: Considerate] [Tone: Neutral]
+
+=== Document ID: 217 ===
+User: Should I be using any special toothpaste? (Questioning)
+Response: For now, a fluoride toothpaste is sufficient. We can discuss other options if the sensitivity or bleeding persists. (Informative) (Reassuring
+[Emotion: Advising] [Tone: Friendly]
+
+=== Document ID: 218 ===
+User: Yes, only once.  Just that one scoop of ice cream.  It felt…sharp, like tiny needles.
+Response: (Questioning)  Can you describe the “sharp” sensation more precisely? Was it a constant sharp pain, or did it come and go?  (Inquiring) And what kind of ice cream was it?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 219 ===
+User: It was a really cold, hard strawberry ice cream.  The pain came and went, mostly when the ice cream touched the back of my upper teeth.
+Response: (Explaining)  That sounds like it could be a possible sensitivity to cold, specifically in the area of your upper molars. (Advising) We should probably check for any cavities or cracks in those teeth.  (Questioning) Have you experienced any other similar sensitivities lately?
+[Emotion: Diagnosing] [Tone: Considerate]
+
+=== Document ID: 220 ===
+User: No, not really.  Just that one time.  I’m a bit worried though.
+Response: (Reassuring) It’s understandable to be worried, but one isolated incident doesn’t necessarily mean anything serious.  (Assessing
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 221 ===
+User: Oh, and I also started using a new electric toothbrush about the same time I changed toothpaste. Could that be related?
+Response: (Questioning) That's a good point.  Tell me more about the electric toothbrush. What kind is it, and how are you using it?  (Inquiring)  Are you using a different brushing technique than before?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 222 ===
+User: Well, it's a sonic toothbrush, and I'm using the recommended setting. I thought it would be better for my teeth.
+Response: (Explaining) Sonic toothbrushes can be very effective, but sometimes the vibrations can be irritating to sensitive teeth if the technique isn't quite right. (Assessing) We'll need to examine your brushing technique to rule that out.
+[Emotion: Considering] [Tone: Neutral]
+
+=== Document ID: 223 ===
+User: I also started drinking a lot more coffee lately.  Could that be causing the sensitivity?
+Response: (Inquiring) How much coffee are we talking about?  (Clarifying)  And is this a recent change, like within the past couple of months? (Assessing) Increased caffeine
+[Emotion: Concerned] [Tone: Neutral]
+
+=== Document ID: 224 ===
+User: Okay, I understand. But what if one of my wisdom teeth starts to hurt?  How would I know if I need it removed then?
+Response: [Questioning]  Good question! [Explaining] Pain is a major indicator.  If you experience persistent pain, swelling, or infection around a wisdom tooth, it definitely warrants a visit. We'll need to examine it to determine the cause of the pain and whether extraction is necessary.  [Advising] Don't wait until the pain becomes unbearable.  [Reassuring]  We can address it before it becomes a bigger problem.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 225 ===
+User: What about the cost?  Is removing wisdom teeth expensive?
+Response: [Considerate] That's understandable to be concerned about. [Explaining] The cost varies depending on the complexity of the extraction.  A simple extraction is less expensive than a surgical one.  [Inquiring] Do you have dental insurance?  Knowing that will help me give you a better estimate. [Advising] We can discuss payment plans if needed.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 226 ===
+User: My friend had their wisdom teeth removed and said it was really painful afterwards. Is that common?
+Response: [Reassuring]  Discomfort is
+[Emotion: ] [Tone: ]
+
+=== Document ID: 227 ===
+User: But I brush twice a day!  Why am I still getting cavities?
+Response: (Explaining)  Brushing is crucial, but it doesn't catch everything.  (Assessing)  We need to look at your brushing technique, (Questioning) how long you brush for, and (Inquiring) what kind of toothpaste you use.  (Diagnosing)  Sometimes, even with good brushing, diet and the structure of your teeth play a significant role.  (Considerate) Let's examine your teeth and discuss your diet to see if we can pinpoint the cause.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 228 ===
+User: My gums bleed a little when I brush. Is that serious?
+Response: (Reassuring)  Slight bleeding isn't always a major concern, but (Concerned) we need to investigate. (Questioning) How often does it bleed? (Clarifying)  Is it just a little bit, or a significant amount? (Assessing)  We'll check for gum inflammation (gingivitis) which is often easily treatable. (Advising)  Let's schedule a cleaning and examination to determine the cause and ensure everything is alright.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 229 ===
+User: So, if it's genetic, does that mean all my kids will have the same problems?
+Response: Think of it like inheriting a tendency towards a certain height – you might be taller or shorter than your parents, depending on other factors.
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 230 ===
+User: What are some of those other factors besides genetics? (Inquiring)
+Response: For example, a poor diet can increase the risk of cavities regardless of genetics.
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 231 ===
+User: My brother had a lot of cavities as a child. Does that mean I'm doomed? (Concerned)
+Response: Regular checkups and good oral hygiene are
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 232 ===
+User: So, if it's hereditary, does that mean I'm doomed to have bad teeth like my mom?  (Concerned)
+Response: Not necessarily! (Reassuring)  Hereditary factors increase your risk, but it doesn't determine your outcome. (Explaining) Good oral hygiene and regular checkups can significantly reduce your chances of developing serious dental problems, even with a family history. (Advising) We can work together to create a plan to keep your teeth healthy. (Encouraging)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 233 ===
+User: My brother has really sensitive teeth, is that genetic too? (Inquiring)
+Response: Tooth sensitivity can have several causes, some genetic and some not. (Explaining)  Thinner enamel, for example, can be hereditary, making teeth more sensitive.  (Informative) However, things like grinding your teeth or using abrasive toothpastes can also cause sensitivity. (Clarifying)  Let's examine your teeth and discuss your habits to determine the cause of any sensitivity you may experience. (Assessing)
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 234 ===
+User: Okay, so my main concern is this sensitivity in my upper left molar. It's been bothering me for a few weeks now, especially when I eat anything cold or sweet.
+Response: (Assessing) (Inquiring)  I understand.  Can you describe the sensitivity? Is it a sharp pain, a dull ache, or something else?  And how long does it last after the trigger (cold or sweet food)?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 235 ===
+User: It's a sharp, shooting pain, really brief, but intense. It only lasts a second or two, but it's enough to make me jump.
+Response: (Diagnosing) (Concerned) That sounds like it could be a sign of tooth decay or a cracked tooth.  We'll need to examine it closely to determine the exact cause. (Advising) We'll take some X-rays to get a better look.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 236 ===
+User: Will the X-rays hurt? I'm a little anxious about dental procedures.
+Response: (Reassuring) (Informative) The X-rays are very low dose and painless.  It's a quick procedure, and we'll make sure you're comfortable throughout.  We can also talk about
+[Emotion: ] [Tone: ]
+
+=== Document ID: 237 ===
+User: It's been about a month now, maybe a little longer.  It's not all the time, just when I bite down hard on something crunchy like an apple or a carrot.
+Response: [Assessing] [Tone: Concerned] A month, huh?  And it's only when you're chewing hard foods?  [Questioning] Can you point to exactly where it hurts?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 238 ===
+User: Mostly on my upper left side, towards the back.  It's a sharp pain, then it goes away.
+Response: [Clarifying] [Tone: Friendly] So a sharp pain in your upper left back teeth, only when biting down on hard things. [Confirming] Is that correct?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 239 ===
+User: Yes, that's right.  Sometimes it feels a little sensitive even to cold things, like ice cream.
+Response: [Diagnosing] [Tone: Considerate] Okay. Sensitivity to cold along with pain when chewing suggests a possible cavity or perhaps some early decay.  [Advising] We need to take a closer look.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 240 ===
+User: Oh no, I hope it's not a cavity!  Will I need a filling?
+Response: [Reassuring] [
+[Emotion: ] [Tone: ]
+
+=== Document ID: 241 ===
+User: It's more like a throbbing ache, not a sharp pain.  It's in my lower left jaw, kind of near the back.
+Response: I understand. A throbbing ache is quite common. (Clarifying) Can you point to the area for me, please?  (Assessing) We'll figure this out together.
+[Emotion: Understanding] [Tone: Reassuring]
+
+=== Document ID: 242 ===
+User: Yeah, right about here.  It's been worse at night.
+Response: Worse at night, you say? (Questioning) Does it wake you up?  (Assessing)  That's helpful information.
+[Emotion: Focusing] [Tone: Inquiring]
+
+=== Document ID: 243 ===
+User: Sometimes.  And it seems to get a little better after I eat something.
+Response: Interesting. (Explaining) Sometimes food can temporarily relieve pressure.  (Questioning) What kind of foods seem to help?
+[Emotion: Analyzing] [Tone: Informative]
+
+=== Document ID: 244 ===
+User: Mostly soft things, like yogurt or soup.  Nothing crunchy or hard.
+Response: Good to know. (Advising)  Let's avoid
+[Emotion: Considering] [Tone: Advising]
+
+=== Document ID: 245 ===
+User: It's more like a dull ache, not a sharp pain.
+Response: (Clarifying) Can you describe the ache? Is it constant, or does it come and go?  (Inquiring)  How long have you been experiencing this dull ache?
+[Emotion: Clarifying] [Tone: Neutral]
+
+=== Document ID: 246 ===
+User: It comes and goes, mostly when I'm chewing.
+Response: (Assessing)  That's helpful information. (Inquiring)  Are there any specific foods that seem to trigger the pain? (Questioning)  And how intense is the pain when it occurs – on a scale of 1 to 10, with 10 being the worst pain you can imagine?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 247 ===
+User: It's probably around a 4 or 5 when it's bad.  And hard foods, definitely.  Anything crunchy.
+Response: (Diagnosing)  Based on your description, it could be several things. (Explaining) We need to examine the area to determine the cause.  (Reassuring) We'll figure this out. (
+[Emotion: Diagnosing] [Tone: Serious]
+
+=== Document ID: 248 ===
+User: Just a dull ache, really.  Mostly when I bite down.
+Response: Okay, a dull ache when biting. Can you pinpoint the location more precisely? Is it one tooth, or several?  And how long has this been going on?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 249 ===
+User: It seems to be the back left side, maybe two teeth.  A couple of weeks now.
+Response: Two teeth on the lower left side, you say?  And this dull ache when biting has lasted for approximately two weeks.  Is the pain constant, or does it come and go?
+[Emotion: Assessing] [Tone: Considerate]
+
+=== Document ID: 250 ===
+User: It comes and goes, but it's getting worse.  Sometimes it throbs a little.
+Response: I understand.  A throbbing sensation suggests potential inflammation. We need to take a closer look.  We'll need an X-ray to rule out any underlying issues like cavities or abscesses. (Reassuring)  This is a common procedure, and we'll make sure you're comfortable.
+[Emotion: Concerned] [Tone: Informative]
+
+=== Document ID: 251 ===
+User: It's mostly when I bite down, a sharp, shooting pain.
+Response: Okay, a sharp, shooting pain when biting down.  (Inquiring) Can you pinpoint the area where you feel this pain the most?  (Clarifying) Is it a constant pain, or does it come and go?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 252 ===
+User: It's mostly in the back left, feels like a molar.  It's intermittent, but really intense when it hits.
+Response: Okay, intermittent sharp pain in a molar. (Considerate) That sounds quite uncomfortable.  (Advising) We'll need to take a closer look to see what's causing this. (Questioning) Have you experienced any swelling or sensitivity in that area?
+[Emotion: Diagnosing] [Tone: Serious]
+
+=== Document ID: 253 ===
+User: No swelling, but it's definitely sensitive to the touch.
+Response: (Confirming) So sensitivity to touch, but no swelling. Good. (Inquiring)  And this sensitivity is only present in that specific back left molar, correct?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 254 ===
+User: It's a sharp, shooting pain, mostly in the back.
+Response: Okay, a sharp, shooting pain in the back of your mouth.  (Questioning) Can you point to the exact location for me?  (Inquiring)  And how long have you been experiencing this?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 255 ===
+User: It started yesterday, but it's getting worse.
+Response: I understand. (Advising)  It's best to address this sooner rather than later. (Assessing)  Can you describe the intensity of the pain on a scale of 1 to 10, with 10 being the worst?
+[Emotion: Concerned] [Tone: Considerate]
+
+=== Document ID: 256 ===
+User: Probably a 7 or 8 right now.  It's throbbing too.
+Response: (Clarifying)  So, a throbbing pain, intensity 7-8 out of 10, localized to the back of your mouth. (Summarizing)  We need to figure out what's causing this. (Questioning) Does anything specific seem to trigger or worsen the pain?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 257 ===
+User: No, not really. Just... a bit sensitive, I guess.
+Response: Okay.  Sensitivity can be caused by several things. (Explaining) To help me understand better, could you describe the sensitivity?  Is it sharp pain, a dull ache, or something else? (Questioning)
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 258 ===
+User: It's more of a dull ache, mostly when I eat something cold.
+Response: (Clarifying) So the sensitivity is primarily triggered by cold temperatures?  And it's a dull ache rather than a sharp, shooting pain? (Confirming)
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 259 ===
+User: Yes, exactly.
+Response: (Questioning)  Have you noticed any changes in your gum line recently – any recession, bleeding, or swelling?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 260 ===
+User: Not really, no. My gums seem fine.
+Response: That's good to hear. (Explaining)  We'll need to examine your teeth and gums to determine the cause of the sensitivity.  It could be something simple like
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 261 ===
+User: No, nothing. Just a little bit of that weird taste.
+Response: A weird taste, you say? Can you describe it?  (Inquiring) (Clarifying)
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 262 ===
+User: Sort of metallic, I guess.  Like blood, but not really.
+Response: I understand.  Sometimes medications or even certain foods can cause that.  Let's have a look. (Explaining) (Reassuring)
+[Emotion: Diagnosing] [Tone: Neutral]
+
+=== Document ID: 263 ===
+User: Okay.  Will it hurt?
+Response: I'll do my best to make it as comfortable as possible. We'll use a numbing agent. (Reassuring) (Informative)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 264 ===
+User: I'm a little nervous about needles.
+Response: I understand your apprehension. We can discuss options for managing your anxiety. We can also use a topical anesthetic to numb the area before the injection. (Advising) (Questioning) (Considerate)
+[Emotion: Considerate] [Tone: Empathetic]
+
+=== Document ID: 265 ===
+User: Yeah, a few times, but it's been a while, maybe three years.
+Response: I understand.  (Assessing) Three years is a significant gap.  (Inquiring) Can you tell me a little more about what prompted you to come in today besides the blood on your toothbrush?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 266 ===
+User: Well, besides that, my gums have been feeling a bit sore lately, especially when I floss.
+Response: (Concerned) Sore gums can be a sign of a few different things. (Questioning)  Have you noticed any swelling or increased sensitivity to hot or cold foods and drinks?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 267 ===
+User: Not really swelling, but yes, the sensitivity is definitely there.  Especially with cold things.
+Response: (Diagnosing) Okay, that's helpful information. (Explaining)  Sensitivity to cold can indicate potential gum recession or even tooth decay.  (Advising) We'll need to take a closer look to determine the exact cause.
+[Emotion: Diagnosing] [Tone: Neutral]
+
+=== Document ID: 268 ===
+User: No, I haven't had a cleaning in over two years.
+Response: (Assessing) I understand.  It's important to have regular cleanings to maintain good oral health.  (Inquiring) Can you tell me a little more about why it's been so long?  (Considerate) We can work together to get you back on track.
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 269 ===
+User: It hurts when I bite down on my back teeth.
+Response: (Questioning)  On which side?  (Clarifying)  Is it a sharp pain, a dull ache, or something else? (Assessing)  This could be several things. (Advising) We'll need to take a look to determine the cause.
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 270 ===
+User: I think I'm grinding my teeth at night.
+Response: (Confirming)  Many people grind their teeth, often without realizing it. (Explaining)  It can lead to jaw pain and tooth damage. (Advising) We can discuss options like a night guard to protect your teeth.
+[Emotion: Reassuring] [Tone: Calm]
+
+=== Document ID: 271 ===
+User: No, nothing like that.  Just… a lot of sensitivity lately.  Especially to cold things.
+Response: Okay, I understand.  Can you describe the sensitivity? Is it a sharp pain, a dull ache, or something else?  And how long has this been going on?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 272 ===
+User: It's more of a sharp, shooting pain when I drink something cold. It's been about a week now, maybe a little longer.
+Response: A week of sharp pain with cold sensitivity could indicate a few things. We'll need to examine your teeth to determine the cause.  (Advising)  It's important to pinpoint the source to treat it effectively.
+[Emotion: Diagnosing] [Tone: Considerate]
+
+=== Document ID: 273 ===
+User: Okay, that sounds good.  I’m a little nervous though.
+Response: (Reassuring) That’s perfectly normal!  Many people feel nervous before a dental appointment.  (Explaining) We’ll take things slowly, and I’ll explain everything as we go.  (Question
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 274 ===
+User: It's not specifically triggered by cold food, but sometimes it's worse after eating, especially if it's something chewy or hard.  It's a dull ache, mostly, but sometimes sharp.
+Response: A dull ache that can become sharp, and worsened by chewing… that's helpful.  Can you describe the location of the pain more precisely? Is it in your lower jaw, upper jaw, both?  Is it concentrated in one area or spread out?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 275 ===
+User: It's mostly in my lower jaw, on both sides, kind of near the back molars. It feels like it's deep in my jawbone, not just on the surface of my gums.
+Response: Have you noticed any swelling in that area?
+[Emotion: Diagnosing] [Tone: Considerate]
+
+=== Document ID: 276 ===
+User: Not really swelling, no. But my gums feel a little tender to the touch there.
+Response: Tender gums
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 277 ===
+User: It's a dull ache, mostly in my lower left jaw.  It's worse when I chew.
+Response: I see.  A dull ache in your lower left jaw, worsened by chewing. Can you describe the intensity of the pain on a scale of 1 to 10, with 1 being barely noticeable and 10 being the worst pain you've ever experienced?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 278 ===
+User: Probably a 6 or 7.  It's not constant, it comes and goes.
+Response: Okay, intermittent pain at a level 6 or 7.  Has this been happening for a long time, or is this a recent development?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 279 ===
+User: It started about a week ago.  It's getting worse though.
+Response: A week, and worsening. That's something we need to look at.  Have you noticed any swelling or sensitivity in that area?
+[Emotion: Concerned] [Tone: Caring]
+
+=== Document ID: 280 ===
+User: It hurts when I bite down, mostly on the back left.
+Response: (Assessing) (Concerned) I understand.  Can you point to the exact spot where it hurts the most?  (Questioning)  And is the pain sharp, dull, throbbing, or something else? (Inquiring)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 281 ===
+User: It's a dull ache, really.  Sometimes it's sharp if I bite down hard.
+Response: (Clarifying) So, a mostly dull ache, but sharp pain with pressure. (Summarizing)  Is the pain constant, or does it come and go? (Questioning)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 282 ===
+User: It comes and goes.  Worse at night.
+Response: (Assessing) (Considerate)  Worse at night, huh? That's something we need to look into.  (Inquiring) Are you clenching or grinding your teeth at night?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 283 ===
+User: I don't think so.  I don't usually remember.
+Response: (Reassuring) That's alright, many people aren't aware they grind their teeth. We can check for signs of that. (Explaining)  Now, have you noticed any sensitivity to hot or cold
+[Emotion: ] [Tone: ]
+
+=== Document ID: 284 ===
+User: So, how much will all of this cost?
+Response: (Assessing)  That's a very valid question. (Explaining) The cost will depend on several factors: the X-ray, the scaling, and any further procedures like extractions, implants, bridges, or prosthetics.  (Informative) I can give you a rough estimate after the X-ray, but the final cost will be clearer once we assess the state of your bone health and the condition of your teeth. (Reassuring) We can discuss payment plans if needed; let's not worry about that until we have a clearer picture. (Questioning) Would you like me to schedule the X-ray for you now?
+[Emotion: ] [Tone: ]
+
+=== Document ID: 285 ===
+User: Will the scaling hurt?
+Response: (Reassuring)  It's generally not painful, but you might experience some mild discomfort or sensitivity. (Explaining) We'll use a local anesthetic to numb the area if needed, to minimize any discomfort. (Considerate)  We'll take it slow and make sure you're comfortable throughout the procedure.  (Questioning) Have you had scaling done before?  Knowing your past experiences can help me prepare better.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 286 ===
+User: Hello Doctor, I've been having this sharp pain in my lower right molar for the past few days.  It's especially bad when I chew.
+Response: Hi there. I'm sorry to hear that.  Tell me more about the pain.  When did it start exactly, and what makes it better or worse? (Inquiring) (Questioning)
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 287 ===
+User: It started about three days ago, and it's worse when I bite down on anything hard.  Warm things seem to soothe it a little.
+Response: Okay, thank you.  That sounds like it could be a cavity or possibly an inflamed pulp (the nerve inside the tooth). We need to take a look. (Explaining) (Informative)
+[Emotion: Understanding] [Tone: Reassuring]
+
+=== Document ID: 288 ===
+User: Oh dear, I hope it's not too serious. Will I need a root canal?
+Response: Let's not jump to conclusions. We'll examine the tooth thoroughly first.  A root canal is a possibility, but it'
+[Emotion: Calm] [Tone: Reassuring]
+
+=== Document ID: 289 ===
+User: I've been having this sharp pain in my lower right molar for about a week now.  It's worse when I chew.
+Response: Can you describe the pain a bit more – is it a throbbing pain, a stabbing pain, or something else?
+[Emotion: Concerned] [Tone: Sympathetic]
+
+=== Document ID: 290 ===
+User: It's more of a stabbing pain, like a really sharp needle.  It only happens when I bite down on something.
+Response: Have you noticed any sensitivity to hot or cold foods or drinks?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 291 ===
+User: Yes, actually.  Hot coffee is unbearable on that tooth.
+Response: Have you experienced
+[Emotion: Diagnosing] [Tone: Serious]
+
+=== Document ID: 292 ===
+User: It's in my lower left jaw, right near the back.  It's a sharp, shooting pain.
+Response: I see.  And how long have you been experiencing this sharp pain? (Inquiring)
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 293 ===
+User: It started about three days ago, but it's gotten much worse today.
+Response: Okay, three days and worsening.  That's helpful information.  Have you noticed any swelling in the area? (Questioning)
+[Emotion: Diagnosing] [Tone: Serious]
+
+=== Document ID: 294 ===
+User: Not really, no swelling that I can see. But it hurts to chew on that side.
+Response: (Clarifying)  So the pain is localized to the lower left back, is sharp, worsening over three days, and is aggravated by chewing.  Is that correct? (Confirming)
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 295 ===
+User: Yes, that's right.  It's also a bit sensitive to cold things.
+Response: (Inquiring)  Sensitivity to cold suggests possible nerve involvement or decay. We'll need to take a
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 296 ===
+User: It's a sharp, shooting pain, mostly when I bite down.
+Response: (Assessing)  Okay, a sharp pain on biting suggests it might be related to your teeth or the supporting structures.  (Inquiring) Can you pinpoint the exact location?  Is it one tooth, or a wider area?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 297 ===
+User: It's mostly in the back right, feels like it's near the gum line.
+Response: (Clarifying) So, the pain is localized to the back right of your upper jaw, near the gum line. (Questioning)  Have you noticed any swelling or redness in that area?
+[Emotion: Clarifying] [Tone: Friendly]
+
+=== Document ID: 298 ===
+User: A little bit of redness, yes.  And it's been sensitive to the touch.
+Response: (Diagnosing) The redness and sensitivity, combined with the pain on biting, could indicate a possible infection or gum disease. (Advising) We need to examine the area closely to determine the exact cause. (Reassuring)  It's important we get this checked out.
+[Emotion: Diagnosing] [Tone: Serious]
+
+=== Document ID: 299 ===
+User: It's mostly when I bite down on something hard, like an apple.  Sometimes it's a sharp, shooting pain, other times it's a dull ache.
+Response: Can you pinpoint the location of the pain?  Is it in one specific tooth or a wider area?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 300 ===
+User: It seems to be mostly in my upper left molar area, but sometimes it radiates a bit towards my temple.
+Response: We'll need to do a thorough examination to determine the exact cause.
+[Emotion: Diagnosing] [Tone: Concerned]
+
+=== Document ID: 301 ===
+User: Will I need an X-ray?
+Response: Yes, an X-ray will help us get a clearer picture of what's going on.  It'
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 302 ===
+User: In general when I eat some cold food, ice creams or some other items, I get a sharp, shooting pain in one of my upper teeth.  It only lasts a few seconds.
+Response: I understand.  That sharp, short pain with cold foods is suggestive of several possibilities. (Explaining) We need to rule out a few things.  (Questioning) How long has this been happening?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 303 ===
+User: It's been about a month now, maybe a little longer. It's getting a bit more frequent.
+Response: (Assessing) A month is significant. (Inquiring)  Is the pain always in the same tooth?  (Clarifying) Can you point to the tooth for me?
+[Emotion: Concerned] [Tone: Considerate]
+
+=== Document ID: 304 ===
+User: Yes, it's this one (points).  And sometimes, there's a slight dull ache even when I'm not eating anything cold.
+Response: Okay, (Summarizing) we have a sharp pain with cold stimuli in a specific tooth, and now a dull ache intermittently. (Advising) We should
+[Emotion: Diagnosing] [Tone: Informative]
+
+=== Document ID: 305 ===
+User: No.
+Response: I understand you said no.  Can you tell me what's making you uncomfortable? (Inquiring)
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 306 ===
+User: It hurts too much.
+Response: I'm sorry to hear that.  Can you describe the pain for me? Is it sharp, dull, throbbing? Where exactly do you feel it? (Assessing, Clarifying)
+[Emotion: Empathetic] [Tone: Soothing]
+
+=== Document ID: 307 ===
+User: It's a sharp pain, right here. (Points)
+Response: Thank you for showing me.  That helps a lot.  To help me understand better, how long have you been experiencing this pain? (Inquiring)
+[Emotion: Assessing] [Tone: Professional]
+
+=== Document ID: 308 ===
+User: A couple of days.
+Response: Two days is a significant amount of time. We'll get to the bottom of this.  Have you tried any over-the-counter pain relievers? (Questioning)
+[Emotion: Considerate] [Tone: Reassuring]
+
+=== Document ID: 309 ===
+User: Yes, ibuprofen, but it didn't help much.
+Response: [Tone: Neutral
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 310 ===
+User: No, not really. It's more of a dull ache, constant, but not intense.
+Response: Okay.  Can you describe the location of this ache more precisely? Is it in a specific tooth, or is it more general in your jaw?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 311 ===
+User: It seems to be around my lower left molar area.
+Response: So, the dull ache is concentrated near your lower left molar.  Is it a throbbing pain, a sharp pain, or just a constant pressure?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 312 ===
+User: More of a pressure, like something's slightly off.
+Response: Have you noticed any sensitivity to hot or cold temperatures in that area?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 313 ===
+User: A little bit, yes.  Hot things seem to make it worse.
+Response: That's something we need to look at.  It could indicate a few different things. We'll need to examine the area to determine the cause. (Reassuring)  Don
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 314 ===
+User: No, I haven't been to a dentist in years.  I'm really nervous.
+Response: Can you tell me a little about why you haven't been to the dentist in so long?
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 315 ===
+User: I've always had a terrible fear of dentists.  The drills and needles really scare me.
+Response: What specifically about the drills and needles worries you the most?
+[Emotion: Empathetic] [Tone: Gentle]
+
+=== Document ID: 316 ===
+User: The noise, mostly. And the feeling of losing control.
+Response: The noise of the drill can be quite loud, but we can
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 317 ===
+User: No, I haven't been to a dentist in years.  I'm really nervous.
+Response: I understand. Many people feel that way.  We'll take it slow and make sure you're comfortable every step of the way.  (Assessing) Can you tell me a little more about why you haven't been?
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 318 ===
+User: I've always had bad experiences with dentists.  They were always rushed and didn't explain things well.
+Response: I'm sorry to hear that. (Advising) We strive to provide a different experience here. We take our time with each patient and explain everything thoroughly. (Questioning) What specifically made those experiences negative?
+[Emotion: Empathetic] [Tone: Concerned]
+
+=== Document ID: 319 ===
+User: The pain, mostly.  And the feeling of being judged for not taking better care of my teeth.
+Response: (Considerate)  It's understandable that past pain would make you hesitant. We use various techniques to minimize discomfort, and we absolutely do not judge our patients. (Inquiring) What kind of pain are we talking
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 320 ===
+User: No, I don't want to tell you my age.
+Response: (Understanding) I understand your hesitation.  It's not necessary for the immediate examination, but knowing your age can sometimes help us understand your overall health and potential dental concerns.  We can proceed without it if you prefer.  (Questioning) Would you be comfortable sharing your general age range, perhaps a decade?
+[Emotion: Considerate] [Tone: Gentle]
+
+=== Document ID: 321 ===
+User: I'm really nervous about the procedure.
+Response: (Reassuring) It's perfectly normal to feel nervous.  (Explaining) We'll take things slowly and I'll explain every step of the way.  We can also use numbing medication to minimize any discomfort. (Questioning) Is there anything specific that is making you feel nervous?
+[Emotion: Reassuring] [Tone: Calm]
+
+=== Document ID: 322 ===
+User: It hurts a lot.
+Response: (Assessing) I'm sorry to hear that. (Questioning) Can you describe the pain? Where exactly is it located?  (Inquiring) What kind of pain is it – sharp, dull, throbbing?  (Clar
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 323 ===
+User: It's a sharp, shooting pain, mostly in my lower left molar.
+Response: I understand. A sharp, shooting pain in the lower left molar. (Assessing) Can you describe the intensity of the pain on a scale of 1 to 10, with 1 being barely noticeable and 10 being the worst pain you've ever experienced? (Questioning)
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 324 ===
+User: Probably a 7 or 8 when it's really bad, but it comes and goes.
+Response: So it fluctuates between a 7 and 8 at its worst, but it's not constant? (Clarifying)  That's helpful information. (Reassuring)  We'll figure this out. (Advising)  Let's take a look.
+[Emotion: Clarifying] [Tone: Considerate]
+
+=== Document ID: 325 ===
+User: It seems worse at night.
+Response: (Questioning) Does lying down seem to exacerbate the pain?  (Inquiring)  And does it wake you up?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 326 ===
+User: Yes, a few times.  Mostly for cleanings.
+Response: (Assessing)  And how long has it been since your last cleaning?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 327 ===
+User: About two years, I think.
+Response: (Concerned) (Advising)  Two years is a bit long between cleanings.  We should aim for every six months for optimal oral health.
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 328 ===
+User: I know, I know.  Life just got in the way.
+Response: (Reassuring) (Considerate) I understand.  It happens to the best of us. Let's focus on getting you back on track.
+[Emotion: Reassuring] [Tone: Empathetic]
+
+=== Document ID: 329 ===
+User: Does it hurt?
+Response: (Reassuring) (Explaining)  We'll do our best to make sure it's as comfortable as possible.  We use numbing agents if needed.  What specifically are you worried about hurting?
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 330 ===
+User: Mostly the drilling.
+Response: (Clarifying
+[Emotion: Clarifying] [Tone: Gentle]
+
+=== Document ID: 331 ===
+User: No, never.  I brush twice a day, floss regularly. I don't understand why this is happening.
+Response: Can you describe the pain more precisely?  Is it sharp, dull, throbbing, constant, or intermittent?
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 332 ===
+User: It's a sharp, shooting pain, mostly when I bite down.  Only on this one tooth.
+Response: Is that correct?
+[Emotion: Inquiring] [Tone: Neutral]
+
+=== Document ID: 333 ===
+User: Yes, that's right.  And it's getting worse.
+Response: Have you noticed any sensitivity to hot or cold?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 334 ===
+User: Yes, incredibly sensitive to cold drinks now.
+Response: [Emotion:
+[Emotion: ] [Tone: ]
+
+=== Document ID: 335 ===
+User: I've had some sensitivity to cold lately, mostly on my upper left molars.
+Response: I understand.  (Inquiring) Can you describe the sensitivity? Is it a sharp pain, a dull ache, or something else? (Questioning)  And how long has this been going on?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 336 ===
+User: It's a sharp, shooting pain, mostly when I drink something really cold. It's been about a week now.
+Response: (Clarifying)  So a sharp pain, only with very cold drinks, lasting about a week. (Summarizing)  Okay, that helps. (Questioning)  Have you noticed any other symptoms, like swelling or discoloration in that area?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 337 ===
+User: No swelling or discoloration, but it seems to be getting a little worse.
+Response: (Reassuring) That's understandable.  (Advising) We'll take a look and figure out what's going on. (Questioning)  Do you brush and floss regularly?
+[Emotion: Concerned] [Tone: Considerate]
+
+=== Document ID: 338 ===
+User: No, it only hurts when I bite down on something hard.
+Response: Only when biting down on hard things?  And it doesn't hurt otherwise?  We need to pinpoint exactly when the pain occurs to help diagnose the problem. (Questioning)
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 339 ===
+User: Yes, exactly.  It's a sharp, shooting pain.
+Response: A sharp, shooting pain, you say?  (Questioning) Can you describe the location more precisely? Is it in one specific tooth, or is it more widespread?
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 340 ===
+User: It seems to be coming from the back left side, maybe the very last molar.
+Response: So the last molar on your lower left side? (Clarifying)  Is the pain constant when biting down, or does it come and go?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 341 ===
+User: It's more of a stabbing pain when I bite down, but then it dulls a bit afterwards.
+Response: A stabbing pain that dulls
+[Emotion: Assessing] [Tone: Concerned]
+
+=== Document ID: 342 ===
+User: Colgate Total.  I've used it for years.
+Response: Okay, Colgate Total. And how often do you brush your teeth each day?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 343 ===
+User: Twice a day, morning and night, for about two minutes each time.
+Response: Do you use a soft-bristled toothbrush?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 344 ===
+User: I think so. It's a medium bristle one, I believe.
+Response: The bristles on a medium brush can be a little harsh over time.
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 345 ===
+User: Oh, I didn't know that.  I'll look for a softer one.  What about flossing?
+Response: How often do
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 346 ===
+User: No, it's my tooth.  The chewing is painful.
+Response: Okay, I understand.  So the pain is only when you're chewing?  (Questioning)
+[Emotion: Clarifying] [Tone: Concerned]
+
+=== Document ID: 347 ===
+User: Mostly. Sometimes it throbs even when I'm not chewing.
+Response: (Inquiring)  And how long has this been going on?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 348 ===
+User: About a week now. It's getting worse.
+Response: I see. (Summarizing) So you've had pain in your tooth for a week, worsening, sometimes even when you're not chewing. (Confirming) Is that correct?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 349 ===
+User: Yes, that's right.  And it's sensitive to cold things.
+Response: Okay. (Assessing) Sensitivity to cold often indicates a possible cavity or nerve irritation. We'll need to take a closer look. (Reassuring)  It's important we get this checked out to prevent further problems.
+[Emotion: Diagnosing] [Tone: Informative]
+
+=== Document ID: 350 ===
+User: No, just the one area on the lower left, near the back. It's mostly just swollen gums, I think.
+Response: Okay, thank you. And is the swelling painful to the touch?  Is there any throbbing or sharp pain?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 351 ===
+User: It's a bit sore, yes, but not excruciatingly painful. More like a dull ache.
+Response: A dull, persistent ache, you're saying, rather than sharp, stabbing pain?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 352 ===
+User: Yes, exactly.  And it seems a little redder than the rest of my gums.
+Response: Have you noticed any pus or discharge from that area?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 353 ===
+User: No, I don't think so. I haven't really looked closely.
+Response: Have you been experiencing any sensitivity to hot or cold foods or
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 354 ===
+User: Is this normal?  I've been having this weird taste in my mouth all day.
+Response: (Inquiring)  Can you describe the taste?  (Explaining)  Some things can cause temporary changes in taste, so let's explore that.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 355 ===
+User: How long will this filling take to set? I have a meeting in an hour.
+Response: (Explaining) The filling material usually sets quickly, within about 20 minutes.  (Reassuring) However, we'll wait a bit longer to ensure it's fully cured before you leave.  (Questioning) Does your meeting allow for any flexibility?
+[Emotion: Concerned] [Tone: Reassuring]
+
+=== Document ID: 356 ===
+User: Will the Novocain make me sleepy? I don't want to drive myself home.
+Response: (Explaining)  The Novocain might make you feel a little lightheaded, but it shouldn't make you sleepy. (Advising)  However, it's always best to have someone drive you home after a procedure like this, just to be safe.
+[Emotion: Considerate] [Tone: Reassuring]
+
+=== Document ID: 357 ===
+User: It only hurts when I bite down on my back teeth.
+Response: Okay, so the pain is localized to the back teeth, only when you apply pressure by biting.  Can you point to the specific tooth or teeth?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 358 ===
+User: It feels like a sharp, shooting pain, not a dull ache.
+Response: A sharp, shooting pain, you say?  Is it a constant sharp pain while biting, or does it come and go?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 359 ===
+User: It's mostly on my left side, near the back.
+Response: So the pain is primarily located on the left side, towards the back of your mouth.  (Confirming) Is that correct?
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 360 ===
+User: It's been happening for about a week now.
+Response: A week, hmm.  Has the pain increased in intensity over that time, or stayed about the same?
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 361 ===
+User: Sometimes, it feels like something is stuck between my teeth.
+Response: 
+[Emotion: ] [Tone: ]
+
+=== Document ID: 362 ===
+User: Will the x-ray hurt?
+Response: Modern dental x-rays use very low radiation levels.
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 363 ===
+User: How long will the whole procedure take?
+Response: For a simple filling, it might take 30-45 minutes.  If more work is needed, it could be longer. We'll have a better idea after the x-ray.
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 364 ===
+User: What are my options if it is a deep cavity?
+Response: These could include a filling, a crown, or in some cases, a root canal. We'll talk through the
+[Emotion: Explaining] [Tone: Calm]
+
+=== Document ID: 365 ===
+User: So, what does that mean for me?  Will I need a root canal? (Questioning)
+Response: It's possible. We need to explore the cavity further to determine the extent of the damage.  If the infection has reached the pulp (the nerve of the tooth), a root canal will likely be necessary. However, we won't know for sure until we examine it more closely.  (Explaining, Reassuring)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 366 ===
+User: How painful is a root canal?  I'm really nervous about the pain. (Concerned, Questioning)
+Response: Modern root canal procedures are performed with local anesthesia, so you shouldn't feel any pain during the procedure itself.  You might experience some mild discomfort afterward, but we'll prescribe medication to manage that. We'll do everything we can to make you comfortable. (Reassuring, Informative)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 367 ===
+User: What are my other options if it does need a root canal? (Inquiring)
+Response: If the damage is too extensive for
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 368 ===
+User: Okay, so what are my options now?
+Response: We have a few options. We could try a root canal to save the tooth, or if the infection is too severe, we might need to extract it. We can discuss the pros and cons of each to help you decide what's best for you. (Advising) (Informative)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 369 ===
+User: How long will a root canal take?
+Response: It usually takes a couple of appointments, sometimes more depending on the complexity of the case.  The first appointment is for cleaning and shaping the canal, and the second is for filling it. (Explaining) (Informative)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 370 ===
+User: Will it hurt?
+Response: We'll use local anesthetic to numb the area completely, so you shouldn't feel any pain during the procedure. You might experience some mild discomfort afterwards, but we can prescribe you medication to manage that. (Reassuring) (Informative) (Considerate)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 371 ===
+User: What if I can't afford a root canal?
+Response: [Emotion: Concerned
+[Emotion: Concerned] [Tone: ]
+
+=== Document ID: 372 ===
+User: Okay, so what are my options?  (Questioning)
+Response: We have a few. We could try a root canal to save the tooth, or if the damage is too extensive, we might need to extract it.  (Explaining)  We'll need to take some X-rays to get a clearer picture before we decide. (Advising)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 373 ===
+User: A root canal? How long does that take? (Inquiring)
+Response: It usually takes a couple of appointments, depending on the complexity of the infection.  The first appointment involves cleaning and shaping the root canals, and the second is for filling them. (Explaining) We can discuss the timeline in more detail once we have the X-rays. (Informative)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 374 ===
+User: And if it needs to be extracted, what then? (Questioning)
+Response: If extraction is necessary, we'll discuss options for replacement, such as a bridge or an implant. (Explaining) We'll make sure you're comfortable with the process and we'll take
+[Emotion: Concerned] [Tone: Gentle]
+
+=== Document ID: 375 ===
+User: What are the other options besides a root canal? (Questioning)
+Response: We could also consider extraction, where we remove the tooth.  However, that would leave a gap, and we'd then need to discuss options like a bridge or implant to replace it.  Which option seems less invasive to you? (Questioning) (Assessing)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 376 ===
+User: How long will the root canal procedure take? (Inquiring)
+Response: It usually takes one to two appointments, depending on the complexity of the case. The first appointment involves cleaning and shaping the root canals, and the second involves filling and sealing them.  (Explaining) (Advising)
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 377 ===
+User: Will it hurt? (Questioning) (Concerned)
+Response: We'll use local anesthesia to numb the area completely, so you shouldn't feel any pain during the procedure. You might experience some mild discomfort afterward, but we'll prescribe medication to manage that. (Reassuring) (Informative)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 378 ===
+User: So, if the pulp is dead, why do I still feel pain?
+Response: (Explaining)  Even though the pulp is dead, the nerves in the surrounding tissues, the ligaments holding the tooth in place, and even the bone can still be inflamed and cause pain.  (Reassuring)  The pain is a signal that something needs attention, and a root canal will address the source of that inflammation.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 379 ===
+User: How long does a root canal procedure actually take?
+Response: (Explaining) It depends on the complexity of the tooth and the individual case.  A single-rooted tooth might take an hour, while a more complex multi-rooted tooth could take longer, perhaps two hours or more. We'll discuss the specifics of your situation once we've done a thorough examination. (Informative)
+[Emotion: ] [Tone: ]
+
+=== Document ID: 380 ===
+User: Will I need to take time off work?
+Response: (Assessing)  That depends on the procedure and your personal recovery.  For most people, a single root canal doesn't require extended time off.  (Advising) However, you might experience some mild discomfort afterward, so plan accordingly. We can discuss pain management options to help minimize any discomfort.
+[Emotion: ] [Tone: ]
+
+=== Document ID: 381 ===
+User: Okay, but what if I can't afford the treatment you're recommending?
+Response: I understand that cost is a major concern for many people. We have several payment plans available, and I can also help you explore options like dental financing or applying for assistance programs. Let's discuss your budget and see what we can work out together.  We want to make sure you receive the necessary care.
+[Emotion: Concerned] [Tone: Empathetic]
+
+=== Document ID: 382 ===
+User: How long will the whole procedure take?  I have a busy schedule.
+Response: . We can schedule it around your availability.
+[Emotion: Reassuring] [Tone: Neutral]
+
+=== Document ID: 383 ===
+User: Will I need to take time off work?
+Response: That depends on the extent of the procedure and your individual healing process.  For some procedures, a day or two
+[Emotion: Assessing] [Tone: Neutral]
+
+=== Document ID: 384 ===
+User: How long will the entire procedure take?
+Response: It's difficult to give an exact time, as it depends on the complexity of the canal.  However, for a procedure like this, we usually allot between one and two hours.  We'll take breaks if needed, and I'll keep you updated on our progress. (Informative) (Reassuring)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 385 ===
+User: Will I need to take any time off work?
+Response: That depends on your job and your pain tolerance afterwards.  For many people, a single day is sufficient for recovery, but some might need two.  We can discuss pain management options to minimize discomfort and expedite your recovery. (Assessing) (Informative) (Considerate)
+[Emotion: Assessing] [Tone: Considerate]
+
+=== Document ID: 386 ===
+User: What kind of anesthesia will you be using?
+Response: We'll be using a local anesthetic, injected near the tooth. It will numb the area completely so you won't feel any pain during the procedure. We can discuss any concerns you have about anesthesia beforehand. (Explaining) (Informative) (Questioning)
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 387 ===
+User: Okay, so the filling is completely out now?  (Questioning)
+Response: Yes, the decayed portion of your tooth and the old filling have been completely removed.  We've ensured all the decay is gone. (Explaining)
+[Emotion: Confirming] [Tone: Reassuring]
+
+=== Document ID: 388 ===
+User: Will I need a crown now?  (Questioning)
+Response: That depends on how much tooth structure remains after removing the decay.  We'll need to take a look and assess the stability of the remaining tooth before deciding. (Assessing)
+[Emotion: Assessing] [Tone: Informative]
+
+=== Document ID: 389 ===
+User: How long will it take to get the permanent filling/crown? (Inquiring)
+Response: The process depends on the restoration we choose.  A temporary filling will be placed today. If a crown is needed, we'll need to take impressions, and the lab will take about a week to create it.  We can schedule your next appointment to fit your schedule. (Explaining)
+[Emotion: Explaining] [Tone: Considerate]
+
+=== Document ID: 390 ===
+User: Will this be painful after the numbing wears off? (Concerned)
+Response: [Emotion: Reassuring
+[Emotion: Reassuring] [Tone: ]
+
+=== Document ID: 391 ===
+User: Will the filling hurt afterwards?
+Response: The filling itself shouldn't hurt, but you might experience some mild sensitivity to temperature changes for a day or two. We'll give you some instructions on how to manage that. (Explaining)
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 392 ===
+User: How long will this whole procedure take?
+Response: The root canal itself usually takes about an hour to an hour and a half, but the entire appointment, including preparation and post-procedure checks, might take a bit longer. (Explaining)
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 393 ===
+User: Is there any chance I'll need further treatment down the line?
+Response: It's difficult to say for certain.  Proper aftercare is crucial. We'll monitor the situation closely and discuss any potential needs at your follow-up appointment. (Assessing) (Inquiring) (Explaining)
+[Emotion: Assessing] [Tone: Considerate]
+
+=== Document ID: 394 ===
+User: What kind of anesthesia will you be using?
+Response: We'll use local anesthesia to numb the area completely, so you shouldn't feel any pain during
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 395 ===
+User: How long will the filling last?
+Response: With proper care, these fillings typically last for many years, often a decade or more.  However, it depends on factors like your diet and oral hygiene habits. (Inquiring) Do you have any questions about maintaining good oral hygiene?
+[Emotion: Explaining] [Tone: Reassuring]
+
+=== Document ID: 396 ===
+User: Will it hurt afterwards?
+Response: You might experience some mild sensitivity to temperature changes for a day or two, but nothing severe. We'll give you some pain relief instructions. (Advising) I recommend taking over-the-counter pain medication as directed, if needed.
+[Emotion: Reassuring] [Tone: Considerate]
+
+=== Document ID: 397 ===
+User: What if it falls out?
+Response: While it's unlikely, if the filling were to come out, it's crucial to contact us immediately.  (Advising) Don't try to fix it yourself.  Leaving it untreated could lead to further problems. (Questioning)  Do you understand what to do if that happens?
+[Emotion: Explaining] [Tone: Concerned]
+
+=== Document ID: 398 ===
+User: Is there a chance of infection?
+Response: 
+[Emotion: Reassuring] [Tone: ]
+
+=== Document ID: 399 ===
+User: Will it hurt when you fill it?
+Response: Afterwards, there might be some mild sensitivity, but we can discuss pain management options if needed.
+[Emotion: Reassuring] [Tone: Neutral]
+
+=== Document ID: 400 ===
+User: How long will the filling last?
+Response: Good brushing and flossing are crucial.
+[Emotion: Informative] [Tone: Friendly]
+
+=== Document ID: 401 ===
+User: What if the filling falls out?
+Response: If it does, please contact us immediately so we can schedule a repair appointment.  Don't try to fix it yourself.
+[Emotion: Reassuring] [Tone: Friendly]
+
+=== Document ID: 402 ===
+User: After that?  Will it hurt?
+Response: We'll discuss pain management options before you leave today.
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 403 ===
+User: How long will the whole process take, including the next appointment?
+Response: So, roughly two hours total across both visits.
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 404 ===
+User: What kind of crown will you be using?
+Response: Do you have any allergies to specific materials I should be aware of?
+[Emotion: Explaining] [Tone: Neutral]
+
+=== Document ID: 405 ===
+User: Will I need to take time off work?
+Response: It depends on your job and your pain tolerance. [Advis
+[Emotion: Assessing] [Tone: Considerate]
+
+=== Document ID: 406 ===
+User: Is this procedure going to hurt a lot?
+Response: We can also discuss options for managing any anxiety you might have beforehand.
+[Emotion: Reassuring] [Tone: Gentle]
+
+=== Document ID: 407 ===
+User: How long will the whole process take?
+Response: We'll have a better idea once we begin.
+[Emotion: Informative] [Tone: Neutral]
+
+=== Document ID: 408 ===
+User: What are the potential long-term effects of not getting this filling?
+Response: It's best
+[Emotion: Concerned] [Tone: Serious]
+
